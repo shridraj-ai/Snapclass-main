@@ -1,0 +1,21 @@
+#Utilities
+numpy
+pandas
+#face recognition
+scikit-learn
+dlib-bin
+#To get the vectors for the face recognition
+git+https://github.com/ageitgey/face_recognition_models
+setuptools<70.0.0
+
+supabase
+
+#Used for hashing passwords
+bcrypt
+#Used for generating QR codes
+segno
+#Used for image processing
+pillow
+#Used for building the web app
+streamlit
+
