@@ -1,3 +1,4 @@
+streamlit
 #Utilities
 numpy
 pandas
@@ -17,5 +18,7 @@ segno
 #Used for image processing
 pillow
 #Used for building the web app
-streamlit
 
+
+librosa
+resemblyzer
